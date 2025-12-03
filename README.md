@@ -1,4 +1,4 @@
-# Netzwerk Basics (Portfolio Projekt 2)
+# Netzwerk Basics
 
 Dieses Projekt zeigt meine praktischen Grundlagen im Netzwerkbereich.  
 Ich habe die wichtigsten Befehle in Linux ausprobiert, um IP-Adressen, DNS, Ports und Verbindungen zu verstehen.  
